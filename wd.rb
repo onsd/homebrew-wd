@@ -14,3 +14,4 @@ class Wd < Formula
     system "true""
   end
 end
+
