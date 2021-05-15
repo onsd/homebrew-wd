@@ -11,7 +11,7 @@ class Wd < Formula
   end
 
   test do
-    system "true""
+    system "true"
   end
 end
 
